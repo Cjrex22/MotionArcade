@@ -2,6 +2,8 @@
 🕹️ MotionArcade: Gesture-Controlled Gaming
 MotionArcade is an innovative Python project developed by Team Obsidian for our 1st semester, transforming traditional arcade gaming by allowing users to play games using hand gestures. We've created an arcade of programs where each game utilizes a specific program to map distinct hand gestures to different keyboard/mouse controls, providing an intuitive and immersive control experience.
 
+- Team members = Churchil, Aditya, Granth, Dileep, Sachin.
+
 - Works very well with python version 3.8.3.
   
 ✨ Features
